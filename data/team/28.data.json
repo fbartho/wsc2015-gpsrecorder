@@ -25,5 +25,18 @@
   "gps_when": "2015-10-19 08:38:25",
   "dist_darwin": 723.615,
   "dist_adelaide": 1905.248
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -18.31958,
+  "lng": 133.7961,
+  "gps_when": "2015-10-19 09:18:11",
+  "dist_darwin": 723.612,
+  "dist_adelaide": 1905.25
  }
 ]

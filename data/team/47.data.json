@@ -25,5 +25,31 @@
   "gps_when": "2015-10-19 08:41:06",
   "dist_darwin": 875.599,
   "dist_adelaide": 1751.062
+ },
+ {
+  "id": "77",
+  "name": "NIT Solar Car Racing Club",
+  "number": 47,
+  "car_name": "Horizon Z",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -19.65749,
+  "lng": 134.18872,
+  "gps_when": "2015-10-19 09:31:03",
+  "dist_darwin": 875.599,
+  "dist_adelaide": 1751.062
+ },
+ {
+  "id": "77",
+  "name": "NIT Solar Car Racing Club",
+  "number": 47,
+  "car_name": "Horizon Z",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -19.6575,
+  "lng": 134.18872,
+  "gps_when": "2015-10-19 09:41:02",
+  "dist_darwin": 875.6,
+  "dist_adelaide": 1751.061
  }
 ]

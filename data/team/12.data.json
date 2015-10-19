@@ -25,5 +25,18 @@
   "gps_when": "2015-10-19 08:43:48",
   "dist_darwin": 764.215,
   "dist_adelaide": 1865.42
+ },
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -18.75815,
+  "lng": 134.01837,
+  "gps_when": "2015-10-19 08:53:50",
+  "dist_darwin": 777.676,
+  "dist_adelaide": 1852.426
  }
 ]

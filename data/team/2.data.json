@@ -25,5 +25,18 @@
   "gps_when": "2015-10-19 08:42:31",
   "dist_darwin": 1219.567,
   "dist_adelaide": 1397.736
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.10278,
+  "lng": 133.67439,
+  "gps_when": "2015-10-19 09:02:33",
+  "dist_darwin": 1219.571,
+  "dist_adelaide": 1397.732
  }
 ]
