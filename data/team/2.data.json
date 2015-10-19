@@ -38,5 +38,70 @@
   "gps_when": "2015-10-19 09:02:33",
   "dist_darwin": 1219.571,
   "dist_adelaide": 1397.732
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.20799,
+  "lng": 133.75987,
+  "gps_when": "2015-10-19 22:48:51",
+  "dist_darwin": 1233.107,
+  "dist_adelaide": 1383.85
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.35185,
+  "lng": 133.80371,
+  "gps_when": "2015-10-19 22:58:50",
+  "dist_darwin": 1249.706,
+  "dist_adelaide": 1367.274
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.49501,
+  "lng": 133.85043,
+  "gps_when": "2015-10-19 23:08:50",
+  "dist_darwin": 1266.305,
+  "dist_adelaide": 1350.68
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.63565,
+  "lng": 133.8651,
+  "gps_when": "2015-10-19 23:18:49",
+  "dist_darwin": 1281.789,
+  "dist_adelaide": 1335.411
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.70889,
+  "lng": 133.87529,
+  "gps_when": "2015-10-19 23:28:48",
+  "dist_darwin": 1289.92,
+  "dist_adelaide": 1327.379
  }
 ]
