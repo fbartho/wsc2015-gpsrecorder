@@ -25,5 +25,31 @@
   "gps_when": "2015-10-19 08:02:23",
   "dist_darwin": 1223.37,
   "dist_adelaide": 1393.816
+ },
+ {
+  "id": "13",
+  "name": "Nuon Solar Team",
+  "number": 3,
+  "car_name": "Nuna8",
+  "country": "nl",
+  "class_id": 5,
+  "lat": -23.13188,
+  "lng": 133.69958,
+  "gps_when": "2015-10-19 21:43:34",
+  "dist_darwin": 1223.353,
+  "dist_adelaide": 1393.84
+ },
+ {
+  "id": "13",
+  "name": "Nuon Solar Team",
+  "number": 3,
+  "car_name": "Nuna8",
+  "country": "nl",
+  "class_id": 5,
+  "lat": -23.13187,
+  "lng": 133.69955,
+  "gps_when": "2015-10-19 21:52:48",
+  "dist_darwin": 1223.351,
+  "dist_adelaide": 1393.842
  }
 ]

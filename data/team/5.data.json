@@ -25,5 +25,18 @@
   "gps_when": "2015-10-19 07:45:17",
   "dist_darwin": 1036.213,
   "dist_adelaide": 1581.72
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -21.24768,
+  "lng": 134.11456,
+  "gps_when": "2015-10-19 21:52:08",
+  "dist_darwin": 1036.217,
+  "dist_adelaide": 1581.714
  }
 ]
