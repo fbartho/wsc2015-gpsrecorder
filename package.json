@@ -22,9 +22,10 @@
     "url": "https://github.com/fbartho/wsc2015-gpsrecorder/issues"
   },
   "homepage": "https://github.com/fbartho/wsc2015-gpsrecorder#readme",
+  "devDependencies": {},
   "dependencies": {
+    "request": "^2.65.0",
     "babel": "^5.8.23",
-    "request": "^2.65.0"
-  },
-  "devDependencies": {}
+    "csv-stringify": "^0.0.8"
+  }
 }
