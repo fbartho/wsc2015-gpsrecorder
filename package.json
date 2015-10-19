@@ -1,0 +1,30 @@
+{
+  "name": "wsc2015-gpsrecorder",
+  "version": "1.0.0",
+  "description": "NodeJS Data Recorder for the GPS locations of the vehicles in the World Solar Challenge 2015",
+  "main": "record.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbartho/wsc2015-gpsrecorder.git"
+  },
+  "keywords": [
+    "utility",
+    "gps",
+    "api",
+    "json"
+  ],
+  "author": "Frederic Barthelemy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbartho/wsc2015-gpsrecorder/issues"
+  },
+  "homepage": "https://github.com/fbartho/wsc2015-gpsrecorder#readme",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {}
+}
