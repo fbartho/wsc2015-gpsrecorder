@@ -7,8 +7,11 @@ Notes about the GPS Logs collected:
 
 ### File Types:
 
-- \#.data.json = raw storage for each team's json data
+All the output files are presented in the `data` folder by default
+- team/#.data.json = raw storage for each team's json data
 	Note: The data in each row is simply the raw JSON data from the http://www.worldsolarchallenge.org/api/positions api end point.
+- class/CLASS_NAME.latest.data.json = the last datapoint for every car in a given class
+- class/CLASS_NAME.latest.csv = the last datapoint for every car in a given class (as CSV)
 - Maybe-TODO \#.data.csv = CSV formatted output for a given team
 - TODO: combined.csv = CSV with all the data from all the teams
 
