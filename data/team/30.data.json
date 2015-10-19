@@ -1,0 +1,29 @@
+[
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.30493,
+  "lng": 134.04854,
+  "gps_when": "2015-10-19 06:33:56",
+  "dist_darwin": 1039.876,
+  "dist_adelaide": 1577.377,
+  "gps_age": "10 mins 44 secs"
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.54379,
+  "lng": 133.84792,
+  "gps_when": "2015-10-19 07:33:53",
+  "dist_darwin": 1058.302,
+  "dist_adelaide": 1557.514
+ }
+]

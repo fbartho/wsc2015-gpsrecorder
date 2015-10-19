@@ -1,0 +1,29 @@
+[
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -19.15077,
+  "lng": 134.16716,
+  "gps_when": "2015-10-19 06:35:18",
+  "dist_darwin": 823.725,
+  "dist_adelaide": 1806.383,
+  "gps_age": "9 mins 22 secs"
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -19.65746,
+  "lng": 134.18851,
+  "gps_when": "2015-10-19 07:45:12",
+  "dist_darwin": 875.587,
+  "dist_adelaide": 1751.07
+ }
+]

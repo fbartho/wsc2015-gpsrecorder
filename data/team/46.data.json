@@ -1,0 +1,29 @@
+[
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -19.65521,
+  "lng": 134.18793,
+  "gps_when": "2015-10-19 06:36:58",
+  "dist_darwin": 875.335,
+  "dist_adelaide": 1751.327,
+  "gps_age": "7 mins 42 secs"
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -19.6577,
+  "lng": 134.18913,
+  "gps_when": "2015-10-19 07:16:56",
+  "dist_darwin": 875.638,
+  "dist_adelaide": 1751.029
+ }
+]

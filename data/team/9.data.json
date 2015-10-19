@@ -1,0 +1,29 @@
+[
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -17.89003,
+  "lng": 133.70157,
+  "gps_when": "2015-10-19 06:36:03",
+  "dist_darwin": 676.513,
+  "dist_adelaide": 1953.994,
+  "gps_age": "8 mins 37 secs"
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -17.89162,
+  "lng": 133.70341,
+  "gps_when": "2015-10-19 08:35:54",
+  "dist_darwin": 676.76,
+  "dist_adelaide": 1953.777
+ }
+]

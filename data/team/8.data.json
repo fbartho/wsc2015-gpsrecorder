@@ -1,0 +1,29 @@
+[
+ {
+  "id": "38",
+  "name": "Punch Powertrain Solar Team",
+  "number": 8,
+  "car_name": "Punch One",
+  "country": "be",
+  "class_id": 5,
+  "lat": -22.20798,
+  "lng": 133.42752,
+  "gps_when": "2015-10-19 06:39:53",
+  "dist_darwin": 1116.971,
+  "dist_adelaide": 1500.032,
+  "gps_age": "4 mins 47 secs"
+ },
+ {
+  "id": "38",
+  "name": "Punch Powertrain Solar Team",
+  "number": 8,
+  "car_name": "Punch One",
+  "country": "be",
+  "class_id": 5,
+  "lat": -22.951,
+  "lng": 133.54369,
+  "gps_when": "2015-10-19 08:40:14",
+  "dist_darwin": 1199.903,
+  "dist_adelaide": 1418.031
+ }
+]

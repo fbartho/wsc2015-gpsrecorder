@@ -1,0 +1,29 @@
+[
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -20.45398,
+  "lng": 134.24998,
+  "gps_when": "2015-10-19 06:35:29",
+  "dist_darwin": 959.242,
+  "dist_adelaide": 1663.558,
+  "gps_age": "9 mins 11 secs"
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -21.24756,
+  "lng": 134.11479,
+  "gps_when": "2015-10-19 07:45:17",
+  "dist_darwin": 1036.213,
+  "dist_adelaide": 1581.72
+ }
+]

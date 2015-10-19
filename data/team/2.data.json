@@ -1,0 +1,29 @@
+[
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.29442,
+  "lng": 133.41415,
+  "gps_when": "2015-10-19 06:33:59",
+  "dist_darwin": 1125.924,
+  "dist_adelaide": 1491.364,
+  "gps_age": "10 mins 41 secs"
+ },
+ {
+  "id": "24",
+  "name": "University of Michigan Solar Car Team",
+  "number": 2,
+  "car_name": "Aurum",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.10275,
+  "lng": 133.67436,
+  "gps_when": "2015-10-19 08:42:31",
+  "dist_darwin": 1219.567,
+  "dist_adelaide": 1397.736
+ }
+]

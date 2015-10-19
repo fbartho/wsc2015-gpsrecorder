@@ -1,0 +1,29 @@
+[
+ {
+  "id": "71",
+  "name": "IVE Solar Car Team",
+  "number": 33,
+  "car_name": "SOPHIE V",
+  "country": "hk",
+  "class_id": 6,
+  "lat": -17.86731,
+  "lng": 133.69073,
+  "gps_when": "2015-10-19 06:31:35",
+  "dist_darwin": 673.744,
+  "dist_adelaide": 1956.716,
+  "gps_age": "13 mins 5 secs"
+ },
+ {
+  "id": "71",
+  "name": "IVE Solar Car Team",
+  "number": 33,
+  "car_name": "SOPHIE V",
+  "country": "hk",
+  "class_id": 6,
+  "lat": -19.38618,
+  "lng": 134.19907,
+  "gps_when": "2015-10-19 08:41:27",
+  "dist_darwin": 848.739,
+  "dist_adelaide": 1780.149
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -17.93605,
+  "lng": 133.71391,
+  "gps_when": "2015-10-19 06:38:49",
+  "dist_darwin": 681.656,
+  "dist_adelaide": 1948.717,
+  "gps_age": "5 mins 51 secs"
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -18.3165,
+  "lng": 133.79361,
+  "gps_when": "2015-10-19 07:28:55",
+  "dist_darwin": 723.189,
+  "dist_adelaide": 1905.644
+ }
+]

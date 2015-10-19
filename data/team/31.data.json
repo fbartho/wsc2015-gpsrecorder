@@ -1,0 +1,29 @@
+[
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -16.68053,
+  "lng": 133.41222,
+  "gps_when": "2015-10-19 06:31:00",
+  "dist_darwin": 544.086,
+  "dist_adelaide": 2091.851,
+  "gps_age": "13 mins 40 secs"
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -16.68063,
+  "lng": 133.41328,
+  "gps_when": "2015-10-19 08:31:27",
+  "dist_darwin": 544.153,
+  "dist_adelaide": 2091.814
+ }
+]

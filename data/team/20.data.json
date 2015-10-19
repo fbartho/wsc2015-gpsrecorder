@@ -1,0 +1,29 @@
+[
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -17.08859,
+  "lng": 133.45142,
+  "gps_when": "2015-10-19 06:33:26",
+  "dist_darwin": 585.474,
+  "dist_adelaide": 2046.774,
+  "gps_age": "11 mins 14 secs"
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -17.37498,
+  "lng": 133.43948,
+  "gps_when": "2015-10-19 08:13:14",
+  "dist_darwin": 612.928,
+  "dist_adelaide": 2016.14
+ }
+]

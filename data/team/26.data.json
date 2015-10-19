@@ -1,0 +1,29 @@
+[
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -16.68015,
+  "lng": 133.41281,
+  "gps_when": "2015-10-19 06:37:06",
+  "dist_darwin": 544.082,
+  "dist_adelaide": 2091.877,
+  "gps_age": "7 mins 34 secs"
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -16.68069,
+  "lng": 133.4129,
+  "gps_when": "2015-10-19 08:38:29",
+  "dist_darwin": 544.138,
+  "dist_adelaide": 2091.817
+ }
+]

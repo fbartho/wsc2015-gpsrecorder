@@ -1,0 +1,29 @@
+[
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -18.35172,
+  "lng": 133.81718,
+  "gps_when": "2015-10-19 06:30:09",
+  "dist_darwin": 727.799,
+  "dist_adelaide": 1901.259,
+  "gps_age": "14 mins 31 secs"
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -18.69116,
+  "lng": 133.97681,
+  "gps_when": "2015-10-19 07:20:03",
+  "dist_darwin": 769.064,
+  "dist_adelaide": 1860.674
+ }
+]

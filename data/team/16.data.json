@@ -1,0 +1,29 @@
+[
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -21.53146,
+  "lng": 133.88889,
+  "gps_when": "2015-10-19 06:40:00",
+  "dist_darwin": 1058.319,
+  "dist_adelaide": 1557.646,
+  "gps_age": "4 mins 40 secs"
+ },
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -21.94687,
+  "lng": 133.51466,
+  "gps_when": "2015-10-19 07:29:30",
+  "dist_darwin": 1091.281,
+  "dist_adelaide": 1524.802
+ }
+]

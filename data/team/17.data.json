@@ -1,0 +1,29 @@
+[
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -19.88632,
+  "lng": 134.20624,
+  "gps_when": "2015-10-19 06:31:40",
+  "dist_darwin": 899.53,
+  "dist_adelaide": 1725.91,
+  "gps_age": "13 mins 0 secs"
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -20.47546,
+  "lng": 134.25237,
+  "gps_when": "2015-10-19 08:43:35",
+  "dist_darwin": 961.54,
+  "dist_adelaide": 1661.181
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -19.64507,
+  "lng": 134.19135,
+  "gps_when": "2015-10-19 06:36:02",
+  "dist_darwin": 874.459,
+  "dist_adelaide": 1752.34,
+  "gps_age": "8 mins 38 secs"
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -20.55789,
+  "lng": 134.26459,
+  "gps_when": "2015-10-19 08:36:13",
+  "dist_darwin": 970.483,
+  "dist_adelaide": 1651.986
+ }
+]

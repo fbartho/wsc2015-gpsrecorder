@@ -1,0 +1,29 @@
+[
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -18.09074,
+  "lng": 133.71992,
+  "gps_when": "2015-10-19 06:35:59",
+  "dist_darwin": 697.267,
+  "dist_adelaide": 1931.853,
+  "gps_age": "8 mins 41 secs"
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -19.65788,
+  "lng": 134.18909,
+  "gps_when": "2015-10-19 08:35:53",
+  "dist_darwin": 875.655,
+  "dist_adelaide": 1751.011
+ }
+]

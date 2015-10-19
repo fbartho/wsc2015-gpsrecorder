@@ -1,0 +1,29 @@
+[
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -16.99706,
+  "lng": 133.43559,
+  "gps_when": "2015-10-19 06:32:42",
+  "dist_darwin": 575.77,
+  "dist_adelaide": 2057.057,
+  "gps_age": "11 mins 58 secs"
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -17.45293,
+  "lng": 133.48148,
+  "gps_when": "2015-10-19 07:32:39",
+  "dist_darwin": 622.668,
+  "dist_adelaide": 2006.671
+ }
+]

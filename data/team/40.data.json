@@ -1,0 +1,29 @@
+[
+ {
+  "id": "8",
+  "name": "Solar Team Eindhoven",
+  "number": 40,
+  "car_name": "Stella Lux",
+  "country": "nl",
+  "class_id": 6,
+  "lat": -20.71269,
+  "lng": 134.23799,
+  "gps_when": "2015-10-19 06:28:55",
+  "dist_darwin": 985.347,
+  "dist_adelaide": 1635.978,
+  "gps_age": "15 mins 45 secs"
+ },
+ {
+  "id": "8",
+  "name": "Solar Team Eindhoven",
+  "number": 40,
+  "car_name": "Stella Lux",
+  "country": "nl",
+  "class_id": 6,
+  "lat": -21.53134,
+  "lng": 133.88759,
+  "gps_when": "2015-10-19 08:20:59",
+  "dist_darwin": 1058.264,
+  "dist_adelaide": 1557.696
+ }
+]

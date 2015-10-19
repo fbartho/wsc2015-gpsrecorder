@@ -1,0 +1,29 @@
+[
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -18.12607,
+  "lng": 133.72502,
+  "gps_when": "2015-10-19 06:34:40",
+  "dist_darwin": 701.018,
+  "dist_adelaide": 1927.91,
+  "gps_age": "10 mins 0 secs"
+ },
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -18.65166,
+  "lng": 133.95721,
+  "gps_when": "2015-10-19 08:43:48",
+  "dist_darwin": 764.215,
+  "dist_adelaide": 1865.42
+ }
+]

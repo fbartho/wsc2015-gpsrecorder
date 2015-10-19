@@ -1,0 +1,29 @@
+[
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -17.36102,
+  "lng": 133.43799,
+  "gps_when": "2015-10-19 06:29:52",
+  "dist_darwin": 611.479,
+  "dist_adelaide": 2017.685,
+  "gps_age": "14 mins 48 secs"
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -17.36665,
+  "lng": 133.43767,
+  "gps_when": "2015-10-19 08:39:42",
+  "dist_darwin": 612.018,
+  "dist_adelaide": 2017.085
+ }
+]

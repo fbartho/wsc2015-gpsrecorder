@@ -1,0 +1,29 @@
+[
+ {
+  "id": "36",
+  "name": "KUST (Kookmin University Solar Car Team)",
+  "number": 82,
+  "car_name": "Baek-Ho",
+  "country": "kr",
+  "class_id": 5,
+  "lat": -18.31918,
+  "lng": 133.79558,
+  "gps_when": "2015-10-19 06:23:39",
+  "dist_darwin": 723.548,
+  "dist_adelaide": 1905.306,
+  "gps_age": "21 mins 1 secs"
+ },
+ {
+  "id": "36",
+  "name": "KUST (Kookmin University Solar Car Team)",
+  "number": 82,
+  "car_name": "Baek-Ho",
+  "country": "kr",
+  "class_id": 5,
+  "lat": -18.31964,
+  "lng": 133.79654,
+  "gps_when": "2015-10-19 07:53:34",
+  "dist_darwin": 723.638,
+  "dist_adelaide": 1905.232
+ }
+]

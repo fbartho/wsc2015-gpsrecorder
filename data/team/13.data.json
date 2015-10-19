@@ -1,0 +1,29 @@
+[
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -20.83159,
+  "lng": 134.241,
+  "gps_when": "2015-10-19 06:39:04",
+  "dist_darwin": 997.722,
+  "dist_adelaide": 1623.096,
+  "gps_age": "5 mins 36 secs"
+ },
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.19547,
+  "lng": 134.14182,
+  "gps_when": "2015-10-19 08:39:49",
+  "dist_darwin": 1031.752,
+  "dist_adelaide": 1586.582
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -19.041,
+  "lng": 134.15068,
+  "gps_when": "2015-10-19 06:37:44",
+  "dist_darwin": 812.015,
+  "dist_adelaide": 1818.656,
+  "gps_age": "6 mins 56 secs"
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -19.56697,
+  "lng": 134.21597,
+  "gps_when": "2015-10-19 08:37:41",
+  "dist_darwin": 867.664,
+  "dist_adelaide": 1760.188
+ }
+]
