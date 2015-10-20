@@ -623,5 +623,18 @@
   "gps_when": "2015-10-20 06:11:36",
   "dist_darwin": 1349.174,
   "dist_adelaide": 1275.834
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -24.44377,
+  "lng": 133.35147,
+  "gps_when": "2015-10-20 06:21:42",
+  "dist_darwin": 1357.224,
+  "dist_adelaide": 1269.708
  }
 ]

@@ -675,5 +675,18 @@
   "gps_when": "2015-10-20 06:07:46",
   "dist_darwin": 1259.258,
   "dist_adelaide": 1357.725
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -23.53683,
+  "lng": 133.86423,
+  "gps_when": "2015-10-20 06:18:12",
+  "dist_darwin": 1271.158,
+  "dist_adelaide": 1345.827
  }
 ]

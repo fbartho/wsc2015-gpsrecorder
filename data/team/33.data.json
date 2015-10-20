@@ -584,5 +584,18 @@
   "gps_when": "2015-10-20 06:06:29",
   "dist_darwin": 1183.066,
   "dist_adelaide": 1435.493
+ },
+ {
+  "id": "71",
+  "name": "IVE Solar Car Team",
+  "number": 33,
+  "car_name": "SOPHIE V",
+  "country": "hk",
+  "class_id": 6,
+  "lat": -22.91913,
+  "lng": 133.51593,
+  "gps_when": "2015-10-20 06:15:19",
+  "dist_darwin": 1195.774,
+  "dist_adelaide": 1422.308
  }
 ]

@@ -584,5 +584,18 @@
   "gps_when": "2015-10-20 06:14:35",
   "dist_darwin": 955.438,
   "dist_adelaide": 1667.479
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.42967,
+  "lng": 134.24637,
+  "gps_when": "2015-10-20 06:24:14",
+  "dist_darwin": 956.606,
+  "dist_adelaide": 1666.27
  }
 ]

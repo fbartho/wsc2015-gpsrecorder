@@ -1299,5 +1299,18 @@
   "gps_when": "2015-10-20 06:05:45",
   "dist_darwin": 1653.06,
   "dist_adelaide": 992.725
+ },
+ {
+  "id": "38",
+  "name": "Punch Powertrain Solar Team",
+  "number": 8,
+  "car_name": "Punch One",
+  "country": "be",
+  "class_id": 5,
+  "lat": -27.26918,
+  "lng": 133.58878,
+  "gps_when": "2015-10-20 06:15:44",
+  "dist_darwin": 1669.948,
+  "dist_adelaide": 975.067
  }
 ]

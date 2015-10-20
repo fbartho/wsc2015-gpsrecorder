@@ -545,5 +545,18 @@
   "gps_when": "2015-10-20 06:12:16",
   "dist_darwin": 949.154,
   "dist_adelaide": 1673.975
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -20.56136,
+  "lng": 134.224,
+  "gps_when": "2015-10-20 06:22:12",
+  "dist_darwin": 969.226,
+  "dist_adelaide": 1652.638
  }
 ]

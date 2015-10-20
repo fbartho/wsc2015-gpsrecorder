@@ -532,5 +532,18 @@
   "gps_when": "2015-10-20 06:08:33",
   "dist_darwin": 1165.805,
   "dist_adelaide": 1452.944
+ },
+ {
+  "id": "19",
+  "name": "UNSW Solar Racing Team -SUNSWIFT",
+  "number": 75,
+  "car_name": "eVe",
+  "country": "au",
+  "class_id": 6,
+  "lat": -22.75894,
+  "lng": 133.40028,
+  "gps_when": "2015-10-20 06:18:33",
+  "dist_darwin": 1175.646,
+  "dist_adelaide": 1443.017
  }
 ]

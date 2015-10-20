@@ -532,5 +532,18 @@
   "gps_when": "2015-10-20 06:09:08",
   "dist_darwin": 1083.809,
   "dist_adelaide": 1531.826
+ },
+ {
+  "id": "36",
+  "name": "KUST (Kookmin University Solar Car Team)",
+  "number": 82,
+  "car_name": "Baek-Ho",
+  "country": "kr",
+  "class_id": 5,
+  "lat": -21.91388,
+  "lng": 133.55727,
+  "gps_when": "2015-10-20 06:19:10",
+  "dist_darwin": 1088.934,
+  "dist_adelaide": 1526.952
  }
 ]

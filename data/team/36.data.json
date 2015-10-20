@@ -532,5 +532,18 @@
   "gps_when": "2015-10-20 06:10:11",
   "dist_darwin": 1118.438,
   "dist_adelaide": 1498.602
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -22.30821,
+  "lng": 133.40869,
+  "gps_when": "2015-10-20 06:20:32",
+  "dist_darwin": 1127.269,
+  "dist_adelaide": 1490.092
  }
 ]

@@ -532,5 +532,18 @@
   "gps_when": "2015-10-20 06:10:42",
   "dist_darwin": 1702.039,
   "dist_adelaide": 939.926
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -27.63892,
+  "lng": 133.89449,
+  "gps_when": "2015-10-20 06:21:12",
+  "dist_darwin": 1715.967,
+  "dist_adelaide": 924.653
  }
 ]

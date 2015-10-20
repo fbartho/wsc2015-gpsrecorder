@@ -1468,5 +1468,18 @@
   "gps_when": "2015-10-20 06:13:32",
   "dist_darwin": 1289.923,
   "dist_adelaide": 1327.379
+ },
+ {
+  "id": "77",
+  "name": "NIT Solar Car Racing Club",
+  "number": 47,
+  "car_name": "Horizon Z",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -23.70883,
+  "lng": 133.87521,
+  "gps_when": "2015-10-20 06:23:26",
+  "dist_darwin": 1289.911,
+  "dist_adelaide": 1327.388
  }
 ]

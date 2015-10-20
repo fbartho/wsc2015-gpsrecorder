@@ -519,5 +519,18 @@
   "gps_when": "2015-10-20 06:08:15",
   "dist_darwin": 1400.274,
   "dist_adelaide": 1232.646
+ },
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -24.97932,
+  "lng": 133.1971,
+  "gps_when": "2015-10-20 06:18:24",
+  "dist_darwin": 1412.632,
+  "dist_adelaide": 1221.074
  }
 ]
