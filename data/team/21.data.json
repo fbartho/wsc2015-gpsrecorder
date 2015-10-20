@@ -1455,5 +1455,31 @@
   "gps_when": "2015-10-20 06:23:01",
   "dist_darwin": 1778.827,
   "dist_adelaide": 861.215
+ },
+ {
+  "id": "17",
+  "name": "Solar Team Twente",
+  "number": 21,
+  "car_name": "Red One",
+  "country": "nl",
+  "class_id": 5,
+  "lat": -28.32303,
+  "lng": 134.16608,
+  "gps_when": "2015-10-20 06:34:00",
+  "dist_darwin": 1795.772,
+  "dist_adelaide": 845.06
+ },
+ {
+  "id": "17",
+  "name": "Solar Team Twente",
+  "number": 21,
+  "car_name": "Red One",
+  "country": "nl",
+  "class_id": 5,
+  "lat": -28.43925,
+  "lng": 134.19447,
+  "gps_when": "2015-10-20 06:42:47",
+  "dist_darwin": 1808.981,
+  "dist_adelaide": 832.406
  }
 ]

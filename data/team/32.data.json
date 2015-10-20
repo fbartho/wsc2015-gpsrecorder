@@ -597,5 +597,31 @@
   "gps_when": "2015-10-20 06:24:07",
   "dist_darwin": 1172.36,
   "dist_adelaide": 1446.332
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.81221,
+  "lng": 133.42294,
+  "gps_when": "2015-10-20 06:33:54",
+  "dist_darwin": 1181.948,
+  "dist_adelaide": 1436.663
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.88469,
+  "lng": 133.48633,
+  "gps_when": "2015-10-20 06:43:54",
+  "dist_darwin": 1191.325,
+  "dist_adelaide": 1426.918
  }
 ]

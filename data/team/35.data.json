@@ -597,5 +597,31 @@
   "gps_when": "2015-10-20 06:21:59",
   "dist_darwin": 1206.7,
   "dist_adelaide": 1411.001
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -23.06369,
+  "lng": 133.64104,
+  "gps_when": "2015-10-20 06:32:01",
+  "dist_darwin": 1214.507,
+  "dist_adelaide": 1402.946
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -23.11868,
+  "lng": 133.68817,
+  "gps_when": "2015-10-20 06:42:01",
+  "dist_darwin": 1221.637,
+  "dist_adelaide": 1395.605
  }
 ]

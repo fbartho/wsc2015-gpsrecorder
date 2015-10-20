@@ -545,5 +545,31 @@
   "gps_when": "2015-10-20 06:20:06",
   "dist_darwin": 1358.164,
   "dist_adelaide": 1269.239
+ },
+ {
+  "id": "3",
+  "name": "Blue Sky Solar Racing",
+  "number": 77,
+  "car_name": "not provided on entry form",
+  "country": "ca",
+  "class_id": 5,
+  "lat": -24.52541,
+  "lng": 133.24896,
+  "gps_when": "2015-10-20 06:30:02",
+  "dist_darwin": 1364.07,
+  "dist_adelaide": 1265.303
+ },
+ {
+  "id": "3",
+  "name": "Blue Sky Solar Racing",
+  "number": 77,
+  "car_name": "not provided on entry form",
+  "country": "ca",
+  "class_id": 5,
+  "lat": -24.62221,
+  "lng": 133.21619,
+  "gps_when": "2015-10-20 06:40:04",
+  "dist_darwin": 1373.997,
+  "dist_adelaide": 1256.692
  }
 ]

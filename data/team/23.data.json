@@ -649,5 +649,31 @@
   "gps_when": "2015-10-20 06:14:48",
   "dist_darwin": 1570.111,
   "dist_adelaide": 1075.452
+ },
+ {
+  "id": "65",
+  "name": "GAMF Hungary",
+  "number": 23,
+  "car_name": "MegaLux",
+  "country": "hu",
+  "class_id": 5,
+  "lat": -26.55737,
+  "lng": 133.25179,
+  "gps_when": "2015-10-20 06:25:48",
+  "dist_darwin": 1586.257,
+  "dist_adelaide": 1060.613
+ },
+ {
+  "id": "65",
+  "name": "GAMF Hungary",
+  "number": 23,
+  "car_name": "MegaLux",
+  "country": "hu",
+  "class_id": 5,
+  "lat": -26.68967,
+  "lng": 133.29765,
+  "gps_when": "2015-10-20 06:36:17",
+  "dist_darwin": 1601.513,
+  "dist_adelaide": 1045.472
  }
 ]

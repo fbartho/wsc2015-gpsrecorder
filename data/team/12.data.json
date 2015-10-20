@@ -662,5 +662,44 @@
   "gps_when": "2015-10-20 06:14:19",
   "dist_darwin": 1148.36,
   "dist_adelaide": 1470.242
+ },
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -22.60947,
+  "lng": 133.34488,
+  "gps_when": "2015-10-20 06:25:24",
+  "dist_darwin": 1158.165,
+  "dist_adelaide": 1460.57
+ },
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -22.67827,
+  "lng": 133.36583,
+  "gps_when": "2015-10-20 06:34:15",
+  "dist_darwin": 1166.101,
+  "dist_adelaide": 1452.645
+ },
+ {
+  "id": "4",
+  "name": "Cambridge University Eco Racing",
+  "number": 12,
+  "car_name": "Evolution",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -22.7514,
+  "lng": 133.39705,
+  "gps_when": "2015-10-20 06:44:32",
+  "dist_darwin": 1174.754,
+  "dist_adelaide": 1443.918
  }
 ]

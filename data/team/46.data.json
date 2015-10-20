@@ -545,5 +545,18 @@
   "gps_when": "2015-10-20 06:21:09",
   "dist_darwin": 1290.035,
   "dist_adelaide": 1327.274
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -23.722,
+  "lng": 133.86783,
+  "gps_when": "2015-10-20 06:33:17",
+  "dist_darwin": 1291.133,
+  "dist_adelaide": 1326.251
  }
 ]
