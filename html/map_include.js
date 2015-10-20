@@ -6,6 +6,9 @@ function getScript(src) {
 	document.body.appendChild(s);
 }
 
+// Relative path to live data!, override this if you're storing to a custom dir.
+var LIVE_DATA_PATH = "../data/class/";
+
 // wow...
 var polyline = "vcakAe`r}W_xCcs@~XuoKvtD_lN`qGycFrrGghGrbJyG|fYwpC~rMc}ErtNid@tsg@l~Dv|Nr^rhHe}AltFyrIxaJ}xFrrWssUvxNcqQboDkdHhrDuuIhzFepXnySq"+
 	"|ObaLuwQ|tNqaA`s\\}|TrkP}eFjgXaxLndKovHtnM{oKzmIytLnwCyyLwd@m{DvuEyaMxdKegJ`|L{x[jnLc__@~pPc`XdqUu_ZxvMs{BvsNpx@naf@upIrvy@yqPjxU{|QteKcl"+
@@ -55,7 +58,7 @@ function fetchAndUpdatePositions() {
 	console.log("Fetching positions!");
 	["challenger","adventure","cruiser"].forEach(function(c){
 		console.log("Processing",c);
-		$.getJSON("../data/class/"+c+".latest.data.json?cache_bust="+Math.random(), function(data) {
+		$.getJSON(LIVE_DATA_PATH+c+".latest.data.json?cache_bust="+Math.random(), function(data) {
 			console.log(["Refreshed class positions for",c,"class."].join(" "));
 			classLatestData[c] = data;
 			refreshPinsIfChanged(c,data);
