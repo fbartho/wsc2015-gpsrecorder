@@ -519,5 +519,18 @@
   "gps_when": "2015-10-20 06:41:30",
   "dist_darwin": 971.456,
   "dist_adelaide": 1650.911
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -20.64102,
+  "lng": 134.22244,
+  "gps_when": "2015-10-20 06:51:26",
+  "dist_darwin": 977.359,
+  "dist_adelaide": 1644.095
  }
 ]

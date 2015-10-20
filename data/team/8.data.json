@@ -1338,5 +1338,31 @@
   "gps_when": "2015-10-20 06:35:42",
   "dist_darwin": 1702.206,
   "dist_adelaide": 939.746
+ },
+ {
+  "id": "38",
+  "name": "Punch Powertrain Solar Team",
+  "number": 8,
+  "car_name": "Punch One",
+  "country": "be",
+  "class_id": 5,
+  "lat": -27.65091,
+  "lng": 133.91077,
+  "gps_when": "2015-10-20 06:45:48",
+  "dist_darwin": 1717.587,
+  "dist_adelaide": 922.728
+ },
+ {
+  "id": "38",
+  "name": "Punch Powertrain Solar Team",
+  "number": 8,
+  "car_name": "Punch One",
+  "country": "be",
+  "class_id": 5,
+  "lat": -27.77419,
+  "lng": 134.01445,
+  "gps_when": "2015-10-20 06:55:45",
+  "dist_darwin": 1733.038,
+  "dist_adelaide": 905.861
  }
 ]

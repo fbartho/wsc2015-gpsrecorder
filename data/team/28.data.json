@@ -701,5 +701,31 @@
   "gps_when": "2015-10-20 06:35:14",
   "dist_darwin": 1090.585,
   "dist_adelaide": 1525.436
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -22.04893,
+  "lng": 133.45445,
+  "gps_when": "2015-10-20 06:45:13",
+  "dist_darwin": 1100.593,
+  "dist_adelaide": 1515.937
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -22.13089,
+  "lng": 133.41637,
+  "gps_when": "2015-10-20 06:55:57",
+  "dist_darwin": 1108.393,
+  "dist_adelaide": 1508.521
  }
 ]

@@ -779,5 +779,18 @@
   "gps_when": "2015-10-20 06:41:29",
   "dist_darwin": 1170.492,
   "dist_adelaide": 1448.216
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -22.82956,
+  "lng": 133.439,
+  "gps_when": "2015-10-20 06:51:35",
+  "dist_darwin": 1184.213,
+  "dist_adelaide": 1434.3
  }
 ]

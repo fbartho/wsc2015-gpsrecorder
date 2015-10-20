@@ -272,5 +272,18 @@
   "gps_when": "2015-10-20 06:43:07",
   "dist_darwin": 992.147,
   "dist_adelaide": 1628.9
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -20.90416,
+  "lng": 134.224,
+  "gps_when": "2015-10-20 06:53:07",
+  "dist_darwin": 1004.566,
+  "dist_adelaide": 1615.724
  }
 ]

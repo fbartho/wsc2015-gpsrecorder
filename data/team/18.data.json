@@ -532,5 +532,31 @@
   "gps_when": "2015-10-20 06:39:14",
   "dist_darwin": 1292.481,
   "dist_adelaide": 1324.9
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -23.73343,
+  "lng": 133.8721,
+  "gps_when": "2015-10-20 06:49:14",
+  "dist_darwin": 1292.472,
+  "dist_adelaide": 1324.909
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -23.73349,
+  "lng": 133.8721,
+  "gps_when": "2015-10-20 06:59:10",
+  "dist_darwin": 1292.479,
+  "dist_adelaide": 1324.902
  }
 ]

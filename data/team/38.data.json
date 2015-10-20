@@ -597,5 +597,18 @@
   "gps_when": "2015-10-20 06:39:52",
   "dist_darwin": 1074.813,
   "dist_adelaide": 1540.716
+ },
+ {
+  "id": "74",
+  "name": "University of Tehran Solar Car Team",
+  "number": 38,
+  "car_name": "Persian Gazelle (III)",
+  "country": "ir",
+  "class_id": 6,
+  "lat": -21.83904,
+  "lng": 133.63998,
+  "gps_when": "2015-10-20 07:00:00",
+  "dist_darwin": 1083.302,
+  "dist_adelaide": 1532.318
  }
 ]

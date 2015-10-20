@@ -584,5 +584,31 @@
   "gps_when": "2015-10-20 06:39:23",
   "dist_darwin": 1058.287,
   "dist_adelaide": 1557.679
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.53134,
+  "lng": 133.88939,
+  "gps_when": "2015-10-20 06:49:34",
+  "dist_darwin": 1058.323,
+  "dist_adelaide": 1557.644
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.54086,
+  "lng": 133.85426,
+  "gps_when": "2015-10-20 06:59:21",
+  "dist_darwin": 1058.195,
+  "dist_adelaide": 1557.643
  }
 ]

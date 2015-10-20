@@ -662,5 +662,31 @@
   "gps_when": "2015-10-20 06:36:40",
   "dist_darwin": 1306.896,
   "dist_adelaide": 1311.675
+ },
+ {
+  "id": "29",
+  "name": "Goko High School",
+  "number": 25,
+  "car_name": "Musoushin",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -23.95827,
+  "lng": 133.71449,
+  "gps_when": "2015-10-20 06:46:34",
+  "dist_darwin": 1312.715,
+  "dist_adelaide": 1306.74
+ },
+ {
+  "id": "29",
+  "name": "Goko High School",
+  "number": 25,
+  "car_name": "Musoushin",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -24.02942,
+  "lng": 133.64143,
+  "gps_when": "2015-10-20 06:56:36",
+  "dist_darwin": 1318.652,
+  "dist_adelaide": 1301.891
  }
 ]

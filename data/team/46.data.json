@@ -558,5 +558,31 @@
   "gps_when": "2015-10-20 06:33:17",
   "dist_darwin": 1291.133,
   "dist_adelaide": 1326.251
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -23.86023,
+  "lng": 133.80519,
+  "gps_when": "2015-10-20 06:49:28",
+  "dist_darwin": 1304.393,
+  "dist_adelaide": 1313.867
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -23.95502,
+  "lng": 133.71771,
+  "gps_when": "2015-10-20 06:59:30",
+  "dist_darwin": 1312.442,
+  "dist_adelaide": 1306.967
  }
 ]

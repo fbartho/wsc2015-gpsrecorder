@@ -454,5 +454,31 @@
   "gps_when": "2015-10-20 06:37:02",
   "dist_darwin": 1069.888,
   "dist_adelaide": 1545.662
+ },
+ {
+  "id": "72",
+  "name": "Liberty Solar Car Team",
+  "number": 34,
+  "car_name": "Solis Bellator",
+  "country": "us",
+  "class_id": 7,
+  "lat": -21.7621,
+  "lng": 133.68439,
+  "gps_when": "2015-10-20 06:46:44",
+  "dist_darwin": 1076.41,
+  "dist_adelaide": 1539.13
+ },
+ {
+  "id": "72",
+  "name": "Liberty Solar Car Team",
+  "number": 34,
+  "car_name": "Solis Bellator",
+  "country": "us",
+  "class_id": 7,
+  "lat": -21.87152,
+  "lng": 133.60934,
+  "gps_when": "2015-10-20 06:56:55",
+  "dist_darwin": 1085.883,
+  "dist_adelaide": 1529.819
  }
 ]

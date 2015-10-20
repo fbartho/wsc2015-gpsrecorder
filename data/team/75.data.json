@@ -558,5 +558,31 @@
   "gps_when": "2015-10-20 06:38:31",
   "dist_darwin": 1194.118,
   "dist_adelaide": 1424.023
+ },
+ {
+  "id": "19",
+  "name": "UNSW Solar Racing Team -SUNSWIFT",
+  "number": 75,
+  "car_name": "eVe",
+  "country": "au",
+  "class_id": 6,
+  "lat": -22.97609,
+  "lng": 133.56575,
+  "gps_when": "2015-10-20 06:48:34",
+  "dist_darwin": 1203.161,
+  "dist_adelaide": 1414.657
+ },
+ {
+  "id": "19",
+  "name": "UNSW Solar Racing Team -SUNSWIFT",
+  "number": 75,
+  "car_name": "eVe",
+  "country": "au",
+  "class_id": 6,
+  "lat": -23.04584,
+  "lng": 133.62579,
+  "gps_when": "2015-10-20 06:58:33",
+  "dist_darwin": 1212.196,
+  "dist_adelaide": 1405.329
  }
 ]

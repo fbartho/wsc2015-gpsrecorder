@@ -558,5 +558,18 @@
   "gps_when": "2015-10-20 06:44:50",
   "dist_darwin": 1220.268,
   "dist_adelaide": 1397.013
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -23.18294,
+  "lng": 133.74327,
+  "gps_when": "2015-10-20 06:54:56",
+  "dist_darwin": 1229.981,
+  "dist_adelaide": 1387.03
  }
 ]
