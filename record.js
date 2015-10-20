@@ -12,7 +12,7 @@ function listParse(val) {
 
 program
 	.version('0.0.1')
-	.option('-o, --output_directory', 'Data Directory Path')
+	.option('-o, --output_directory <output_directory>', 'Data Directory Path')
 	.parse(process.argv);
 
 global.OUTPUT_PATH = program.output_directory || global.OUTPUT_PATH;

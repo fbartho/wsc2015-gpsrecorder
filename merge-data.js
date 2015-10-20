@@ -16,7 +16,7 @@ function listParse(val) {
 
 program
 	.version('0.0.1')
-	.option('-o, --output_directory', 'Data Directory Path')
+	.option('-o, --output_directory <output_directory>', 'Data Directory Path')
 	.option('-p, --paths <paths>', 'Merge directory locations, comma separated',listParse)
 	.parse(process.argv);
 
