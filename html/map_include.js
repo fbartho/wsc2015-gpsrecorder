@@ -132,7 +132,6 @@ function createPinFor(record) {
 		labelClass: "labels", // the CSS class for the label
 		labelStyle: {opacity: 0.60}
 	});
-	// record.marker.setLabel(record.number);
 		
 	record.marker.set('pin-id', record.number);
 		
@@ -157,10 +156,15 @@ function followToggle(r){
 
 
 function refreshFollow(class_name) {
-	if (followTeam && followTeam.class_id == classIdForName[class_name]) {
+	// if (followTeam && followTeam.class_id == classIdForName[class_name]) {
+	if (followTeam) {
 		var pos = new google.maps.LatLng(followTeam.lat,followTeam.lng);
-		console.log("Panning the map!",pos.lat,pos.lng);
+		console.log("Panning the map!",pos.lat(),pos.lng());
+		
 		map.panTo(pos);
+		setTimeout(function(){
+			map.setCenter(pos);
+		},1000);
 	}
 }
 
