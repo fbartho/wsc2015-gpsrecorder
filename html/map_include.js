@@ -2,6 +2,7 @@ function getScript(src) {
 	var s = document.createElement('script');
 
 	s.src = src;
+	s.async = false;
 	document.body.appendChild(s);
 }
 
@@ -19,12 +20,13 @@ var polyline = "vcakAe`r}W_xCcs@~XuoKvtD_lN`qGycFrrGghGrbJyG|fYwpC~rMc}ErtNid@ts
 
 var map, infoWindow, pins;
 
-var followedTeam = null;
+var followTeam = null;
 var positions = {};
 var classLatestData = {};
 
 function initMap() {
-
+	getScript('./markerwithlabel.js');
+	
 	var mapOptions = {
 		zoom: 8,
 		center: new google.maps.LatLng(-25.1, 133.0),
@@ -47,16 +49,17 @@ function initMap() {
 	// Start liveloading the data!
 	setInterval(fetchAndUpdatePositions,20 * 1000);
 	fetchAndUpdatePositions();
+	window.onMarkerWithLabelLoad = fetchAndUpdatePositions;
 }
 function fetchAndUpdatePositions() {
 	console.log("Fetching positions!");
 	["challenger","adventure","cruiser"].forEach(function(c){
 		console.log("Processing",c);
-		$.getJSON("../data/class/"+c+".latest.data.json", function(data) {
+		$.getJSON("../data/class/"+c+".latest.data.json?cache_bust="+Math.random(), function(data) {
 			console.log(["Refreshed class positions for",c,"class."].join(" "));
 			classLatestData[c] = data;
 			refreshPinsIfChanged(c,data);
-			// refreshFollow();
+			refreshFollow(c);
 		});
 	});
 }
@@ -68,36 +71,68 @@ function refreshPinsIfChanged(c,data) {
 	data.forEach(function(r){
 		var num = r.number;
 		var latest = getLatest(num);
+		// console.log(latest);
 		if (latest.gps_when != r.gps_when) {
 			// Did update!
 			console.log(["Moving pin for",r.number,r.car_name].join(" "));
 			if (latest.marker){
 				latest.marker.setMap(null);
 			}
-			latest = positions[num] = r;
-			createPinFor(r);
+			if (window.MarkerWithLabel) {
+				latest = positions[num] = r;
+				createPinFor(r);
+			} else {
+				setTimeout(function(){
+					refreshPinsIfChanged(c,data);
+				},100)
+			}
 		}
 	});
 }
+
+var classNameForNumber = {
+	5: "challenger",
+	6: "adventure",
+	7: "cruiser",
+};
+var classIdForName = {
+	"challenger":5,
+	"adventure":6,
+	"cruiser":7
+};
 function createPinFor(record) {
 	var iTable = {
 		challenger: "purple",
 		adventure: "blue",
 		cruiser: "green"
 	};
-	var classNameForNumber = {
-		5: "challenger",
-		6: "adventure",
-		7: "cruiser",
-	}
 	function imageForClassName(c) {
-		return "images/"+iTable[c]+"-marker.png";
+		return {
+			url: "images/"+iTable[c]+"-marker.png",
+			labelOrigin:new google.maps.Point(0,0)
+		}
+			
 	}
-	record.marker = new google.maps.Marker({
+//	record.marker = new google.maps.Marker({
+//		position: new google.maps.LatLng(record.lat, record.lng),
+//		map: map,
+//		icon: imageForClassName(classNameForNumber[record.class_id]),
+//		label:""+record.number,
+//		labelClass: "labels", // the CSS class for the label
+//		labelStyle: {opacity: 0.75}
+//	});
+	record.marker = new window.MarkerWithLabel({
 		position: new google.maps.LatLng(record.lat, record.lng),
+		draggable: false,
+		raiseOnDrag: false,
 		map: map,
-		icon: imageForClassName(classNameForNumber[record.class_id])
+		icon: imageForClassName(classNameForNumber[record.class_id]),
+		labelContent: ""+record.number,
+		labelAnchor: new google.maps.Point(30, 26),
+		labelClass: "labels", // the CSS class for the label
+		labelStyle: {opacity: 0.60}
 	});
+	// record.marker.setLabel(record.number);
 		
 	record.marker.set('pin-id', record.number);
 		
@@ -109,7 +144,24 @@ function pinClick(which) {
 }
 function pinPopup(number) {
 	var r = positions[number];
-	alert([number,r.name,r.car_name,"dist_adelaide:",r.dist_adelaide].join(" "))
+	alert([followToggle(r),number,r.name,r.car_name,"dist_adelaide:",r.dist_adelaide].join(" "))
+}
+function followToggle(r){
+	if (!followTeam || followTeam.number != r.number) {
+		followTeam = r;
+		return "Now following:";
+	}
+	followTeam = null;
+	return "No longer following:";
+}
+
+
+function refreshFollow(class_name) {
+	if (followTeam && followTeam.class_id == classIdForName[class_name]) {
+		var pos = new google.maps.LatLng(followTeam.lat,followTeam.lng);
+		console.log("Panning the map!",pos.lat,pos.lng);
+		map.panTo(pos);
+	}
 }
 
 function loadMapWithKey() {
