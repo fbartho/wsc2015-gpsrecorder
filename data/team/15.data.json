@@ -610,5 +610,83 @@
   "gps_when": "2015-10-20 06:59:21",
   "dist_darwin": 1058.195,
   "dist_adelaide": 1557.643
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.59273,
+  "lng": 133.76985,
+  "gps_when": "2015-10-20 07:09:24",
+  "dist_darwin": 1061.019,
+  "dist_adelaide": 1554.585
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.65619,
+  "lng": 133.74535,
+  "gps_when": "2015-10-20 07:19:23",
+  "dist_darwin": 1066.993,
+  "dist_adelaide": 1548.557
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.73045,
+  "lng": 133.73518,
+  "gps_when": "2015-10-20 07:29:29",
+  "dist_darwin": 1074.568,
+  "dist_adelaide": 1540.962
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.73135,
+  "lng": 133.73363,
+  "gps_when": "2015-10-20 07:39:22",
+  "dist_darwin": 1074.617,
+  "dist_adelaide": 1540.913
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.73155,
+  "lng": 133.73355,
+  "gps_when": "2015-10-20 07:49:22",
+  "dist_darwin": 1074.636,
+  "dist_adelaide": 1540.894
+ },
+ {
+  "id": "60",
+  "name": "Team Solaris",
+  "number": 15,
+  "car_name": "DesTech Solaris",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -21.78909,
+  "lng": 133.67494,
+  "gps_when": "2015-10-20 22:44:52",
+  "dist_darwin": 1079.003,
+  "dist_adelaide": 1536.551
  }
 ]

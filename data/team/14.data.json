@@ -675,5 +675,70 @@
   "gps_when": "2015-10-20 06:51:28",
   "dist_darwin": 1384.229,
   "dist_adelaide": 1247.939
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -24.83577,
+  "lng": 133.19218,
+  "gps_when": "2015-10-20 07:01:28",
+  "dist_darwin": 1396.859,
+  "dist_adelaide": 1235.871
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -24.94537,
+  "lng": 133.19412,
+  "gps_when": "2015-10-20 07:11:24",
+  "dist_darwin": 1408.868,
+  "dist_adelaide": 1224.645
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.0452,
+  "lng": 133.20253,
+  "gps_when": "2015-10-20 07:21:27",
+  "dist_darwin": 1419.929,
+  "dist_adelaide": 1214.163
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.05972,
+  "lng": 133.20187,
+  "gps_when": "2015-10-20 07:33:08",
+  "dist_darwin": 1421.504,
+  "dist_adelaide": 1212.717
+ },
+ {
+  "id": "59",
+  "name": "Team UKZN",
+  "number": 14,
+  "car_name": "Hulamin",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.20181,
+  "lng": 133.20279,
+  "gps_when": "2015-10-20 22:45:49",
+  "dist_darwin": 1437.05,
+  "dist_adelaide": 1198.28
  }
 ]

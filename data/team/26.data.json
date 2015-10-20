@@ -532,5 +532,44 @@
   "gps_when": "2015-10-20 06:49:53",
   "dist_darwin": 1058.33,
   "dist_adelaide": 1557.634
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -21.53162,
+  "lng": 133.8887,
+  "gps_when": "2015-10-20 07:00:08",
+  "dist_darwin": 1058.33,
+  "dist_adelaide": 1557.634
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -21.71904,
+  "lng": 133.75304,
+  "gps_when": "2015-10-20 07:33:06",
+  "dist_darwin": 1073.899,
+  "dist_adelaide": 1541.641
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -22.90785,
+  "lng": 133.50577,
+  "gps_when": "2015-10-20 22:29:53",
+  "dist_darwin": 1194.305,
+  "dist_adelaide": 1423.833
  }
 ]

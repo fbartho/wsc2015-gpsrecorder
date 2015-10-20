@@ -584,5 +584,70 @@
   "gps_when": "2015-10-20 06:50:40",
   "dist_darwin": 1756.249,
   "dist_adelaide": 882.363
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -28.09798,
+  "lng": 134.13066,
+  "gps_when": "2015-10-20 07:00:39",
+  "dist_darwin": 1770.583,
+  "dist_adelaide": 868.715
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -28.21759,
+  "lng": 134.15071,
+  "gps_when": "2015-10-20 07:10:36",
+  "dist_darwin": 1783.995,
+  "dist_adelaide": 856.074
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -28.33545,
+  "lng": 134.17038,
+  "gps_when": "2015-10-20 07:20:38",
+  "dist_darwin": 1797.209,
+  "dist_adelaide": 843.648
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -28.45761,
+  "lng": 134.19905,
+  "gps_when": "2015-10-20 07:30:37",
+  "dist_darwin": 1811.07,
+  "dist_adelaide": 830.404
+ },
+ {
+  "id": "51",
+  "name": "Tokai University",
+  "number": 10,
+  "car_name": "Tokai Challenger",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -28.62822,
+  "lng": 134.32234,
+  "gps_when": "2015-10-20 22:48:28",
+  "dist_darwin": 1832.103,
+  "dist_adelaide": 807.989
  }
 ]

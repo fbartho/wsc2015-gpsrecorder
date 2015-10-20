@@ -38,5 +38,18 @@
   "gps_when": "2015-10-20 03:23:32",
   "dist_darwin": 1292.483,
   "dist_adelaide": 1324.916
+ },
+ {
+  "id": "8",
+  "name": "Solar Team Eindhoven",
+  "number": 40,
+  "car_name": "Stella Lux",
+  "country": "nl",
+  "class_id": 6,
+  "lat": -23.79059,
+  "lng": 133.87561,
+  "gps_when": "2015-10-20 22:44:16",
+  "dist_darwin": 1298.704,
+  "dist_adelaide": 1318.791
  }
 ]

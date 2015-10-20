@@ -896,5 +896,70 @@
   "gps_when": "2015-10-20 06:58:43",
   "dist_darwin": 1390.413,
   "dist_adelaide": 1242.186
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -24.89124,
+  "lng": 133.19522,
+  "gps_when": "2015-10-20 07:08:42",
+  "dist_darwin": 1402.975,
+  "dist_adelaide": 1230.104
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.00998,
+  "lng": 133.19995,
+  "gps_when": "2015-10-20 07:18:51",
+  "dist_darwin": 1416.034,
+  "dist_adelaide": 1217.844
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.01617,
+  "lng": 133.20076,
+  "gps_when": "2015-10-20 07:28:42",
+  "dist_darwin": 1416.725,
+  "dist_adelaide": 1217.182
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.01617,
+  "lng": 133.20076,
+  "gps_when": "2015-10-20 07:38:41",
+  "dist_darwin": 1416.725,
+  "dist_adelaide": 1217.182
+ },
+ {
+  "id": "61",
+  "name": "NWU Solar",
+  "number": 17,
+  "car_name": "Sirius X25",
+  "country": "za",
+  "class_id": 5,
+  "lat": -25.16309,
+  "lng": 133.19618,
+  "gps_when": "2015-10-20 22:45:46",
+  "dist_darwin": 1432.698,
+  "dist_adelaide": 1202.474
  }
 ]
