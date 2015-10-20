@@ -1,4 +1,5 @@
 google_api.keyfile
+*.latest.*
 
 # Logs
 logs
