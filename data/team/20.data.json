@@ -116,5 +116,70 @@
   "gps_when": "2015-10-19 23:32:31",
   "dist_darwin": 662.616,
   "dist_adelaide": 1967.864
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -17.8421,
+  "lng": 133.68297,
+  "gps_when": "2015-10-19 23:42:34",
+  "dist_darwin": 670.879,
+  "dist_adelaide": 1959.631
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -17.91171,
+  "lng": 133.70973,
+  "gps_when": "2015-10-19 23:52:33",
+  "dist_darwin": 679.05,
+  "dist_adelaide": 1951.451
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -17.98723,
+  "lng": 133.711,
+  "gps_when": "2015-10-20 00:02:39",
+  "dist_darwin": 686.577,
+  "dist_adelaide": 1943.258
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -18.06221,
+  "lng": 133.71582,
+  "gps_when": "2015-10-20 00:12:32",
+  "dist_darwin": 694.24,
+  "dist_adelaide": 1935.037
+ },
+ {
+  "id": "63",
+  "name": "Houston Solar Race Team",
+  "number": 20,
+  "car_name": "Sundancer",
+  "country": "us",
+  "class_id": 7,
+  "lat": -18.13725,
+  "lng": 133.72618,
+  "gps_when": "2015-10-20 00:22:31",
+  "dist_darwin": 702.184,
+  "dist_adelaide": 1926.673
  }
 ]

@@ -103,5 +103,57 @@
   "gps_when": "2015-10-19 23:39:37",
   "dist_darwin": 899.173,
   "dist_adelaide": 1726.281
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -20.03668,
+  "lng": 134.20831,
+  "gps_when": "2015-10-19 23:50:33",
+  "dist_darwin": 914.903,
+  "dist_adelaide": 1709.623
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -20.18071,
+  "lng": 134.22125,
+  "gps_when": "2015-10-19 23:59:30",
+  "dist_darwin": 930.124,
+  "dist_adelaide": 1693.756
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -20.3436,
+  "lng": 134.23589,
+  "gps_when": "2015-10-20 00:09:29",
+  "dist_darwin": 947.369,
+  "dist_adelaide": 1675.816
+ },
+ {
+  "id": "62",
+  "name": "Eco Photon",
+  "number": 18,
+  "car_name": "Stingray",
+  "country": "my",
+  "class_id": 5,
+  "lat": -20.50568,
+  "lng": 134.25899,
+  "gps_when": "2015-10-20 00:19:29",
+  "dist_darwin": 964.904,
+  "dist_adelaide": 1657.756
  }
 ]

@@ -129,5 +129,57 @@
   "gps_when": "2015-10-19 23:38:23",
   "dist_darwin": 1181.92,
   "dist_adelaide": 1436.693
+ },
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.91562,
+  "lng": 133.51289,
+  "gps_when": "2015-10-19 23:48:20",
+  "dist_darwin": 1195.32,
+  "dist_adelaide": 1422.778
+ },
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.02675,
+  "lng": 133.60931,
+  "gps_when": "2015-10-19 23:58:31",
+  "dist_darwin": 1209.721,
+  "dist_adelaide": 1407.883
+ },
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.13423,
+  "lng": 133.70145,
+  "gps_when": "2015-10-20 00:08:16",
+  "dist_darwin": 1223.654,
+  "dist_adelaide": 1393.531
+ },
+ {
+  "id": "18",
+  "name": "Stanford Solar Car Project",
+  "number": 16,
+  "car_name": "Arctan",
+  "country": "us",
+  "class_id": 5,
+  "lat": -23.25612,
+  "lng": 133.77309,
+  "gps_when": "2015-10-20 00:18:18",
+  "dist_darwin": 1238.623,
+  "dist_adelaide": 1378.351
  }
 ]

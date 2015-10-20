@@ -103,5 +103,70 @@
   "gps_when": "2015-10-19 23:30:33",
   "dist_darwin": 826.137,
   "dist_adelaide": 1803.746
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -19.27594,
+  "lng": 134.18384,
+  "gps_when": "2015-10-19 23:40:38",
+  "dist_darwin": 837.003,
+  "dist_adelaide": 1792.44
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -19.37669,
+  "lng": 134.19746,
+  "gps_when": "2015-10-19 23:50:28",
+  "dist_darwin": 847.715,
+  "dist_adelaide": 1781.214
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -19.47704,
+  "lng": 134.2142,
+  "gps_when": "2015-10-20 00:00:28",
+  "dist_darwin": 858.541,
+  "dist_adelaide": 1769.958
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -19.57329,
+  "lng": 134.21002,
+  "gps_when": "2015-10-20 00:10:30",
+  "dist_darwin": 868.038,
+  "dist_adelaide": 1759.648
+ },
+ {
+  "id": "26",
+  "name": "Anadolu Solar Team",
+  "number": 36,
+  "car_name": "Sunatolia 2",
+  "country": "tr",
+  "class_id": 5,
+  "lat": -19.65187,
+  "lng": 134.18918,
+  "gps_when": "2015-10-20 00:20:30",
+  "dist_darwin": 875.051,
+  "dist_adelaide": 1751.658
  }
 ]

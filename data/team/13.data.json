@@ -129,5 +129,44 @@
   "gps_when": "2015-10-19 23:38:03",
   "dist_darwin": 1058.332,
   "dist_adelaide": 1557.632
+ },
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.53166,
+  "lng": 133.88873,
+  "gps_when": "2015-10-19 23:48:09",
+  "dist_darwin": 1058.335,
+  "dist_adelaide": 1557.629
+ },
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.53174,
+  "lng": 133.88881,
+  "gps_when": "2015-10-19 23:58:05",
+  "dist_darwin": 1058.346,
+  "dist_adelaide": 1557.618
+ },
+ {
+  "id": "25",
+  "name": "Western Sydney University Solar Car Project",
+  "number": 13,
+  "car_name": "Unlimited",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.53156,
+  "lng": 133.88907,
+  "gps_when": "2015-10-20 00:08:40",
+  "dist_darwin": 1058.336,
+  "dist_adelaide": 1557.63
  }
 ]
