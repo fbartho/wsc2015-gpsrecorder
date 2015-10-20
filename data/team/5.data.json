@@ -454,5 +454,70 @@
   "gps_when": "2015-10-20 05:21:08",
   "dist_darwin": 1367.808,
   "dist_adelaide": 1261.968
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -24.66364,
+  "lng": 133.20399,
+  "gps_when": "2015-10-20 05:31:11",
+  "dist_darwin": 1378.286,
+  "dist_adelaide": 1252.945
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -24.77675,
+  "lng": 133.17891,
+  "gps_when": "2015-10-20 05:41:10",
+  "dist_darwin": 1390.167,
+  "dist_adelaide": 1242.417
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -24.89873,
+  "lng": 133.19601,
+  "gps_when": "2015-10-20 05:51:09",
+  "dist_darwin": 1403.807,
+  "dist_adelaide": 1229.31
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -25.01677,
+  "lng": 133.20056,
+  "gps_when": "2015-10-20 06:01:06",
+  "dist_darwin": 1416.787,
+  "dist_adelaide": 1217.13
+ },
+ {
+  "id": "6",
+  "name": "EAFIT-EPM Solar Car Team",
+  "number": 5,
+  "car_name": "Primavera",
+  "country": "co",
+  "class_id": 5,
+  "lat": -25.13091,
+  "lng": 133.19472,
+  "gps_when": "2015-10-20 06:11:08",
+  "dist_darwin": 1429.154,
+  "dist_adelaide": 1205.794
  }
 ]

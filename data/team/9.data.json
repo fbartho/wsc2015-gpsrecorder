@@ -688,5 +688,57 @@
   "gps_when": "2015-10-20 05:22:09",
   "dist_darwin": 1060.409,
   "dist_adelaide": 1555.258
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.69492,
+  "lng": 133.75443,
+  "gps_when": "2015-10-20 05:32:09",
+  "dist_darwin": 1071.382,
+  "dist_adelaide": 1544.166
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.80644,
+  "lng": 133.66895,
+  "gps_when": "2015-10-20 05:41:30",
+  "dist_darwin": 1080.674,
+  "dist_adelaide": 1534.891
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -21.92912,
+  "lng": 133.53755,
+  "gps_when": "2015-10-20 05:51:32",
+  "dist_darwin": 1090.014,
+  "dist_adelaide": 1525.958
+ },
+ {
+  "id": "57",
+  "name": "Adelaide University Solar Racing Team",
+  "number": 9,
+  "car_name": "Lumen",
+  "country": "au",
+  "class_id": 5,
+  "lat": -22.06819,
+  "lng": 133.44159,
+  "gps_when": "2015-10-20 06:01:29",
+  "dist_darwin": 1102.319,
+  "dist_adelaide": 1514.318
  }
 ]

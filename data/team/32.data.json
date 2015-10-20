@@ -506,5 +506,83 @@
   "gps_when": "2015-10-20 05:14:29",
   "dist_darwin": 1104.409,
   "dist_adelaide": 1512.367
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.20482,
+  "lng": 133.4278,
+  "gps_when": "2015-10-20 05:27:19",
+  "dist_darwin": 1116.638,
+  "dist_adelaide": 1500.356
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.27267,
+  "lng": 133.42242,
+  "gps_when": "2015-10-20 05:33:55",
+  "dist_darwin": 1123.797,
+  "dist_adelaide": 1493.384
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.36653,
+  "lng": 133.38533,
+  "gps_when": "2015-10-20 05:43:57",
+  "dist_darwin": 1132.958,
+  "dist_adelaide": 1484.728
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.45685,
+  "lng": 133.34921,
+  "gps_when": "2015-10-20 05:53:57",
+  "dist_darwin": 1141.797,
+  "dist_adelaide": 1476.441
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.55156,
+  "lng": 133.32796,
+  "gps_when": "2015-10-20 06:03:53",
+  "dist_darwin": 1151.502,
+  "dist_adelaide": 1467.217
+ },
+ {
+  "id": "70",
+  "name": "Principia Solar Car Team",
+  "number": 32,
+  "car_name": "Ra 9",
+  "country": "us",
+  "class_id": 5,
+  "lat": -22.64113,
+  "lng": 133.34995,
+  "gps_when": "2015-10-20 06:13:53",
+  "dist_darwin": 1161.706,
+  "dist_adelaide": 1457.078
  }
 ]

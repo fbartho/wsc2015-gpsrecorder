@@ -532,5 +532,70 @@
   "gps_when": "2015-10-20 05:22:47",
   "dist_darwin": 1456.026,
   "dist_adelaide": 1181.029
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -25.48135,
+  "lng": 133.22153,
+  "gps_when": "2015-10-20 05:31:56",
+  "dist_darwin": 1467.949,
+  "dist_adelaide": 1169.261
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -25.6017,
+  "lng": 133.2112,
+  "gps_when": "2015-10-20 05:42:04",
+  "dist_darwin": 1480.931,
+  "dist_adelaide": 1157.587
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -25.70706,
+  "lng": 133.258,
+  "gps_when": "2015-10-20 05:51:52",
+  "dist_darwin": 1493.281,
+  "dist_adelaide": 1144.998
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -25.81427,
+  "lng": 133.28871,
+  "gps_when": "2015-10-20 06:02:12",
+  "dist_darwin": 1505.55,
+  "dist_adelaide": 1132.917
+ },
+ {
+  "id": "43",
+  "name": "Clenergy TeamArrow",
+  "number": 30,
+  "car_name": "Arrow1-GT",
+  "country": "au",
+  "class_id": 5,
+  "lat": -25.83904,
+  "lng": 133.3009,
+  "gps_when": "2015-10-20 06:12:06",
+  "dist_darwin": 1508.476,
+  "dist_adelaide": 1129.907
  }
 ]

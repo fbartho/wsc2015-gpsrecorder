@@ -454,5 +454,70 @@
   "gps_when": "2015-10-20 05:24:58",
   "dist_darwin": 1141.63,
   "dist_adelaide": 1476.596
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -22.54681,
+  "lng": 133.32771,
+  "gps_when": "2015-10-20 05:34:57",
+  "dist_darwin": 1150.983,
+  "dist_adelaide": 1467.724
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -22.63908,
+  "lng": 133.34911,
+  "gps_when": "2015-10-20 05:45:00",
+  "dist_darwin": 1161.465,
+  "dist_adelaide": 1457.322
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -22.72574,
+  "lng": 133.38612,
+  "gps_when": "2015-10-20 05:54:53",
+  "dist_darwin": 1171.718,
+  "dist_adelaide": 1446.979
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -22.81653,
+  "lng": 133.42715,
+  "gps_when": "2015-10-20 06:05:20",
+  "dist_darwin": 1182.517,
+  "dist_adelaide": 1436.068
+ },
+ {
+  "id": "11",
+  "name": "K.I.T. Yumekobo Solar Car Project",
+  "number": 51,
+  "car_name": "K.I.T Golden Eagle 5.1",
+  "country": "jp",
+  "class_id": 5,
+  "lat": -22.88721,
+  "lng": 133.48853,
+  "gps_when": "2015-10-20 06:14:55",
+  "dist_darwin": 1191.651,
+  "dist_adelaide": 1426.579
  }
 ]

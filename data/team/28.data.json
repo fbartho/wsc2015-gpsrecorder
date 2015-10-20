@@ -597,5 +597,70 @@
   "gps_when": "2015-10-20 05:15:20",
   "dist_darwin": 1058.294,
   "dist_adelaide": 1557.672
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -21.53122,
+  "lng": 133.88896,
+  "gps_when": "2015-10-20 05:25:20",
+  "dist_darwin": 1058.296,
+  "dist_adelaide": 1557.669
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -21.55252,
+  "lng": 133.83974,
+  "gps_when": "2015-10-20 05:35:13",
+  "dist_darwin": 1058.963,
+  "dist_adelaide": 1556.821
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -21.59921,
+  "lng": 133.76395,
+  "gps_when": "2015-10-20 05:45:13",
+  "dist_darwin": 1061.523,
+  "dist_adelaide": 1554.069
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -21.67476,
+  "lng": 133.75101,
+  "gps_when": "2015-10-20 05:55:12",
+  "dist_darwin": 1069.137,
+  "dist_adelaide": 1546.413
+ },
+ {
+  "id": "15",
+  "name": "SunSPEC",
+  "number": 28,
+  "car_name": "SunSPEC4",
+  "country": "sg",
+  "class_id": 6,
+  "lat": -21.69347,
+  "lng": 133.75433,
+  "gps_when": "2015-10-20 06:05:15",
+  "dist_darwin": 1071.225,
+  "dist_adelaide": 1544.323
  }
 ]

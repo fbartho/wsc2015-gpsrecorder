@@ -519,5 +519,70 @@
   "gps_when": "2015-10-20 05:24:08",
   "dist_darwin": 915.048,
   "dist_adelaide": 1709.453
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.11171,
+  "lng": 134.22089,
+  "gps_when": "2015-10-20 05:34:04",
+  "dist_darwin": 923.071,
+  "dist_adelaide": 1701.212
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.19197,
+  "lng": 134.2213,
+  "gps_when": "2015-10-20 05:44:03",
+  "dist_darwin": 931.275,
+  "dist_adelaide": 1692.539
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.27675,
+  "lng": 134.22794,
+  "gps_when": "2015-10-20 05:54:03",
+  "dist_darwin": 940.208,
+  "dist_adelaide": 1683.226
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.3477,
+  "lng": 134.23647,
+  "gps_when": "2015-10-20 06:04:02",
+  "dist_darwin": 947.812,
+  "dist_adelaide": 1675.359
+ },
+ {
+  "id": "56",
+  "name": "Massachusetts Institute of Technology Solar Electric Vehicle Team",
+  "number": 7,
+  "car_name": "Arcturus",
+  "country": "us",
+  "class_id": 5,
+  "lat": -20.41873,
+  "lng": 134.24521,
+  "gps_when": "2015-10-20 06:14:35",
+  "dist_darwin": 955.438,
+  "dist_adelaide": 1667.479
  }
 ]

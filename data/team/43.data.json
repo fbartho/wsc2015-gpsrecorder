@@ -493,5 +493,70 @@
   "gps_when": "2015-10-20 05:16:11",
   "dist_darwin": 1288.784,
   "dist_adelaide": 1328.466
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -23.69823,
+  "lng": 133.87836,
+  "gps_when": "2015-10-20 05:26:22",
+  "dist_darwin": 1288.855,
+  "dist_adelaide": 1328.397
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -23.6982,
+  "lng": 133.8784,
+  "gps_when": "2015-10-20 05:36:19",
+  "dist_darwin": 1288.853,
+  "dist_adelaide": 1328.399
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -23.69823,
+  "lng": 133.87851,
+  "gps_when": "2015-10-20 05:46:24",
+  "dist_darwin": 1288.859,
+  "dist_adelaide": 1328.392
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -23.69829,
+  "lng": 133.87843,
+  "gps_when": "2015-10-20 05:56:56",
+  "dist_darwin": 1288.864,
+  "dist_adelaide": 1328.388
+ },
+ {
+  "id": "75",
+  "name": "Ardingly Solar",
+  "number": 43,
+  "car_name": "Ardingly Solar Car",
+  "country": "gb",
+  "class_id": 6,
+  "lat": -23.69647,
+  "lng": 133.87819,
+  "gps_when": "2015-10-20 06:06:41",
+  "dist_darwin": 1288.662,
+  "dist_adelaide": 1328.587
  }
 ]
