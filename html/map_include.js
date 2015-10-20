@@ -154,10 +154,11 @@ function followToggle(r){
 	return "No longer following:";
 }
 
-
 function refreshFollow(class_name) {
 	// if (followTeam && followTeam.class_id == classIdForName[class_name]) {
 	if (followTeam) {
+		followTeam = getLatest(followTeam.number);
+		
 		var pos = new google.maps.LatLng(followTeam.lat,followTeam.lng);
 		console.log("Panning the map!",pos.lat(),pos.lng());
 		
