@@ -363,5 +363,31 @@
   "gps_when": "2015-10-20 02:07:31",
   "dist_darwin": 1289.913,
   "dist_adelaide": 1327.387
+ },
+ {
+  "id": "35",
+  "name": "Kogakuin University",
+  "number": 88,
+  "car_name": "OWL",
+  "country": "jp",
+  "class_id": 6,
+  "lat": -23.70886,
+  "lng": 133.87515,
+  "gps_when": "2015-10-20 02:17:24",
+  "dist_darwin": 1289.913,
+  "dist_adelaide": 1327.387
+ },
+ {
+  "id": "35",
+  "name": "Kogakuin University",
+  "number": 88,
+  "car_name": "OWL",
+  "country": "jp",
+  "class_id": 6,
+  "lat": -23.71033,
+  "lng": 133.8741,
+  "gps_when": "2015-10-20 02:28:29",
+  "dist_darwin": 1290.044,
+  "dist_adelaide": 1327.268
  }
 ]

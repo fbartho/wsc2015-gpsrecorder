@@ -103,5 +103,83 @@
   "gps_when": "2015-10-20 02:13:35",
   "dist_darwin": 752.811,
   "dist_adelaide": 1876.538
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -18.64795,
+  "lng": 133.95526,
+  "gps_when": "2015-10-20 02:24:16",
+  "dist_darwin": 763.755,
+  "dist_adelaide": 1865.868
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -18.73062,
+  "lng": 133.99698,
+  "gps_when": "2015-10-20 02:34:18",
+  "dist_darwin": 773.936,
+  "dist_adelaide": 1855.919
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -18.81078,
+  "lng": 134.04117,
+  "gps_when": "2015-10-20 02:46:48",
+  "dist_darwin": 783.981,
+  "dist_adelaide": 1846.184
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -19.21042,
+  "lng": 134.17017,
+  "gps_when": "2015-10-20 03:44:56",
+  "dist_darwin": 829.824,
+  "dist_adelaide": 1799.856
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -19.70029,
+  "lng": 134.17952,
+  "gps_when": "2015-10-20 05:14:04",
+  "dist_darwin": 879.529,
+  "dist_adelaide": 1746.661
+ },
+ {
+  "id": "69",
+  "name": "ITS Solar Car Racing Team",
+  "number": 31,
+  "car_name": "Widya Wahana",
+  "country": "id",
+  "class_id": 6,
+  "lat": -19.81607,
+  "lng": 134.19949,
+  "gps_when": "2015-10-20 05:23:15",
+  "dist_darwin": 892.115,
+  "dist_adelaide": 1733.664
  }
 ]
