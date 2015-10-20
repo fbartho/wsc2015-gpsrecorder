@@ -146,7 +146,7 @@ function pinClick(which) {
 }
 function pinPopup(number) {
 	var r = positions[number];
-	alert([followToggle(r),number,r.name,r.car_name,"dist_adelaide:",r.dist_adelaide].join(" "))
+	alert([followToggle(r),number,r.name,r.car_name,"dist_adelaide:",r.dist_adelaide,r.gps_when].join(" "))
 }
 function followToggle(r){
 	if (!followTeam || followTeam.number != r.number) {
