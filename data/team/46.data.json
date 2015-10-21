@@ -1218,5 +1218,33 @@
   "trailered": 0,
   "dist_darwin": 1794.751,
   "dist_adelaide": 846.038
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -28.31441,
+  "lng": 134.16376,
+  "gps_when": "2015-10-21 06:22:50",
+  "trailered": 0,
+  "dist_darwin": 1794.788,
+  "dist_adelaide": 846.01
+ },
+ {
+  "id": "10",
+  "name": "Jusolarteam",
+  "number": 46,
+  "car_name": "SOLBRITT",
+  "country": "se",
+  "class_id": 5,
+  "lat": -28.31439,
+  "lng": 134.16376,
+  "gps_when": "2015-10-21 06:32:04",
+  "trailered": 0,
+  "dist_darwin": 1794.786,
+  "dist_adelaide": 846.012
  }
 ]
