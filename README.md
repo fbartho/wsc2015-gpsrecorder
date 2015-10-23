@@ -21,6 +21,10 @@ This will poll on a (configurable) interval, collecting data.
 
 Results can be found in [data/](./data) more [documentation](./data/data-files.md) exists in that folder as well!
 
+Also, to merge data from alternate data directories into your current one, run:
+
+	node merge-data.js -p <path_to_alternate_data_directory>
+
 #### Live-Updating Google Map
 
 After launching record.js (which will poll the WSC API and cache the data for you) open [./html/livemap.html] in your browser to see a live updating google map!
@@ -32,6 +36,12 @@ Note: you need to create a google_api.keyfile with the following JSON
 	}
 
 You can get your own Google Maps API Key from [https://developers.google.com/maps/documentation/javascript/get-api-key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+
+## See Also:
+
+Others have also built utilities for this race, check them out!
+
+- [fenichel/slrcr](https://github.com/fenichel/slrcr)
 
 # Go Fast, Go Smooth, Go Blue!
 
