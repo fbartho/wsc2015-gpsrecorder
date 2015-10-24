@@ -4078,5 +4078,61 @@
   "trailered": 1,
   "dist_darwin": 2612.75,
   "dist_adelaide": 2.778
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.92108,
+  "lng": 138.5995,
+  "gps_when": "2015-10-24 01:26:30",
+  "trailered": 1,
+  "dist_darwin": 2614.981,
+  "dist_adelaide": 0.682
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.92116,
+  "lng": 138.60603,
+  "gps_when": "2015-10-24 01:37:00",
+  "trailered": 1,
+  "dist_darwin": 2615.186,
+  "dist_adelaide": 0.373
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.91769,
+  "lng": 138.60034,
+  "gps_when": "2015-10-24 01:46:23",
+  "trailered": 1,
+  "dist_darwin": 2614.651,
+  "dist_adelaide": 0.902
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.91765,
+  "lng": 138.60036,
+  "gps_when": "2015-10-24 01:57:55",
+  "trailered": 1,
+  "dist_darwin": 2614.647,
+  "dist_adelaide": 0.905
  }
 ]

@@ -4224,5 +4224,61 @@
   "trailered": 1,
   "dist_darwin": 2337.438,
   "dist_adelaide": 278.666
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -32.51508,
+  "lng": 137.81415,
+  "gps_when": "2015-10-24 01:28:18",
+  "trailered": 1,
+  "dist_darwin": 2338.652,
+  "dist_adelaide": 277.548
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -32.57875,
+  "lng": 137.8815,
+  "gps_when": "2015-10-24 01:37:30",
+  "trailered": 1,
+  "dist_darwin": 2347.417,
+  "dist_adelaide": 269.109
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -32.7095,
+  "lng": 137.94133,
+  "gps_when": "2015-10-24 01:47:29",
+  "trailered": 1,
+  "dist_darwin": 2362.98,
+  "dist_adelaide": 253.657
+ },
+ {
+  "id": "67",
+  "name": "Durham University Electric Motorsport",
+  "number": 26,
+  "car_name": "DUSC2015",
+  "country": "gb",
+  "class_id": 5,
+  "lat": -32.84972,
+  "lng": 137.98193,
+  "gps_when": "2015-10-24 01:57:32",
+  "trailered": 1,
+  "dist_darwin": 2378.936,
+  "dist_adelaide": 237.62
  }
 ]

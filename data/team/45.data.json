@@ -3401,5 +3401,61 @@
   "trailered": 1,
   "dist_darwin": 2486.83,
   "dist_adelaide": 128.85
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -33.92165,
+  "lng": 138.16243,
+  "gps_when": "2015-10-24 01:25:12",
+  "trailered": 1,
+  "dist_darwin": 2496.929,
+  "dist_adelaide": 118.613
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -33.97188,
+  "lng": 138.19429,
+  "gps_when": "2015-10-24 01:35:02",
+  "trailered": 1,
+  "dist_darwin": 2503.162,
+  "dist_adelaide": 112.368
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -33.97194,
+  "lng": 138.19438,
+  "gps_when": "2015-10-24 01:45:02",
+  "trailered": 1,
+  "dist_darwin": 2503.171,
+  "dist_adelaide": 112.359
+ },
+ {
+  "id": "76",
+  "name": "KGHM Lodz Solar Team",
+  "number": 45,
+  "car_name": "Eagle One",
+  "country": "pl",
+  "class_id": 6,
+  "lat": -34.06317,
+  "lng": 138.2077,
+  "gps_when": "2015-10-24 01:54:37",
+  "trailered": 1,
+  "dist_darwin": 2513.155,
+  "dist_adelaide": 102.418
  }
 ]

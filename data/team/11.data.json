@@ -4151,5 +4151,33 @@
   "trailered": 0,
   "dist_darwin": 2614.59,
   "dist_adelaide": 0.984
+ },
+ {
+  "id": "9",
+  "name": "HS Bochum SolarCar-Team",
+  "number": 11,
+  "car_name": "Sun Riser",
+  "country": "de",
+  "class_id": 6,
+  "lat": -34.91734,
+  "lng": 138.59918,
+  "gps_when": "2015-10-24 01:38:09",
+  "trailered": 0,
+  "dist_darwin": 2614.579,
+  "dist_adelaide": 0.994
+ },
+ {
+  "id": "9",
+  "name": "HS Bochum SolarCar-Team",
+  "number": 11,
+  "car_name": "Sun Riser",
+  "country": "de",
+  "class_id": 6,
+  "lat": -34.91762,
+  "lng": 138.5992,
+  "gps_when": "2015-10-24 01:49:29",
+  "trailered": 0,
+  "dist_darwin": 2614.609,
+  "dist_adelaide": 0.968
  }
 ]

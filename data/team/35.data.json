@@ -3955,5 +3955,47 @@
   "trailered": 0,
   "dist_darwin": 2589.296,
   "dist_adelaide": 26.671
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -34.75789,
+  "lng": 138.59122,
+  "gps_when": "2015-10-24 01:33:35",
+  "trailered": 0,
+  "dist_darwin": 2597.62,
+  "dist_adelaide": 18.561
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -34.81055,
+  "lng": 138.59756,
+  "gps_when": "2015-10-24 01:44:01",
+  "trailered": 0,
+  "dist_darwin": 2603.332,
+  "dist_adelaide": 12.684
+ },
+ {
+  "id": "47",
+  "name": "University of Minnesota",
+  "number": 35,
+  "car_name": "Eos",
+  "country": "us",
+  "class_id": 6,
+  "lat": -34.84753,
+  "lng": 138.60023,
+  "gps_when": "2015-10-24 01:54:28",
+  "trailered": 0,
+  "dist_darwin": 2607.29,
+  "dist_adelaide": 8.568
  }
 ]
