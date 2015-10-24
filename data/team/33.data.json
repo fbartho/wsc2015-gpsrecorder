@@ -3709,5 +3709,19 @@
   "trailered": 1,
   "dist_darwin": 2614.592,
   "dist_adelaide": 0.981
+ },
+ {
+  "id": "71",
+  "name": "IVE Solar Car Team",
+  "number": 33,
+  "car_name": "SOPHIE V",
+  "country": "hk",
+  "class_id": 6,
+  "lat": -34.927,
+  "lng": 138.59923,
+  "gps_when": "2015-10-24 01:11:45",
+  "trailered": 1,
+  "dist_darwin": 2615.594,
+  "dist_adelaide": 0.653
  }
 ]
