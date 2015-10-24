@@ -3732,5 +3732,33 @@
   "trailered": 1,
   "dist_darwin": 2596.958,
   "dist_adelaide": 19.211
+ },
+ {
+  "id": "74",
+  "name": "University of Tehran Solar Car Team",
+  "number": 38,
+  "car_name": "Persian Gazelle (III)",
+  "country": "ir",
+  "class_id": 6,
+  "lat": -34.91765,
+  "lng": 138.60014,
+  "gps_when": "2015-10-24 02:24:05",
+  "trailered": 1,
+  "dist_darwin": 2614.641,
+  "dist_adelaide": 0.916
+ },
+ {
+  "id": "74",
+  "name": "University of Tehran Solar Car Team",
+  "number": 38,
+  "car_name": "Persian Gazelle (III)",
+  "country": "ir",
+  "class_id": 6,
+  "lat": -34.91747,
+  "lng": 138.59923,
+  "gps_when": "2015-10-24 03:31:38",
+  "trailered": 1,
+  "dist_darwin": 2614.595,
+  "dist_adelaide": 0.98
  }
 ]

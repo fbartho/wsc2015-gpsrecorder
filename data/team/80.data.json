@@ -4134,5 +4134,33 @@
   "trailered": 1,
   "dist_darwin": 2614.647,
   "dist_adelaide": 0.905
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.91768,
+  "lng": 138.60034,
+  "gps_when": "2015-10-24 02:06:22",
+  "trailered": 1,
+  "dist_darwin": 2614.65,
+  "dist_adelaide": 0.903
+ },
+ {
+  "id": "30",
+  "name": "Sun Shuttle",
+  "number": 80,
+  "car_name": "Sun Shuttle",
+  "country": "cn",
+  "class_id": 5,
+  "lat": -34.91771,
+  "lng": 138.60034,
+  "gps_when": "2015-10-24 02:16:22",
+  "trailered": 1,
+  "dist_darwin": 2614.653,
+  "dist_adelaide": 0.9
  }
 ]
